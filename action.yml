@@ -1,6 +1,6 @@
 # action.yml
-name: 'Publish Dart/Flutter package'
-description: 'Publish Dart/Flutter package'
+name: 'Publish Dart/Flutter package - latest flutter'
+description: 'Publish Dart/Flutter package using the latest flutter version'
 inputs:
   credential:
     description: 'Google Account credential'
